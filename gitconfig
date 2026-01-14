@@ -56,12 +56,6 @@
 
 [pull]
   rebase = false
-<<<<<<< HEAD
 [user]
 	email = kasiakkupczyk@gmail.com
 	name = Kasia Kupczyk
-=======
-
-[init]
-  defaultBranch = master
->>>>>>> upstream/master
